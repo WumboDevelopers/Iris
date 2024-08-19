@@ -1,2 +1,2 @@
 # Vortex
-Vortex is our Desktop/Web client.
+The Wumbo desktop web app made in [React.JS](https://react.dev)
